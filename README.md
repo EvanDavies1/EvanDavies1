@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm EvanDavies1.
 
-<!--
+
 **EvanDavies1/EvanDavies1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 Recent Projects Completed: I have completed multiple projects as part of my assessments.
 - 😄 Hobbies: I enjoy playing video games and going out with friends. I also play the guitar and sometimes volunteer at a local charity shop when I have time.
 
--->
 
 
 
