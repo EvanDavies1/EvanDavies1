@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm EvanDavies1.
 
-
-**EvanDavies1/EvanDavies1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💬 About me: I am a Computer Science Student.
 - 🌱 What I am doing: I am currently in my first year of a Computer Science course. I am currently doing multiple modules including programming, Information and Security, and Professionalism and employability.
 - ⚡ Skillset: I am currently learning C++ and SQL.
