@@ -13,7 +13,7 @@
 - Coin Toss - I wrote a program that simulated a coin toss. The user would have to input their guess, either heads or tails, and if they won, the program would display 'You Win', while if they lost, the program would display 'You Lose'.
 - Area of Triangle - I wrote a program where the user would have to input the length of all three sides of a triangle. The program would then use that data to calculate the area of the triangle.
 - Rainfall - I wrote a program that reads in from a file contaning the monthly rainfall of four diffrent months, where the program would then calculate the total rainfall over that four-month period.
-  Distance Travelled - I wrote a program that asks the user for the speed of a vehicle in mph, and for how many hours the vehicle was travelling. The program would then calculate the distance travelled and display the distance travelled for each hour.
+- Distance Travelled - I wrote a program that asks the user for the speed of a vehicle in mph, and for how many hours the vehicle was travelling. The program would then calculate the distance travelled and display the distance travelled for each hour.
 - 😄 Hobbies: I enjoy playing video games and going out with friends. I also play the guitar and sometimes volunteer at a local charity shop when I have time.
 
 
