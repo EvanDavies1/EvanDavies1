@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm EvanDavies1.
 
-- 💬 About me: I am a Computer Science Student.
+- 💬 About me: I am a Computer Science Student who loves problem solving.
 - 🌱 What I am doing: I am currently in my first year of a Computer Science course. I am currently doing multiple modules including programming, Information and Security, and Professionalism and employability.
 - ⚡ Skillset: I am currently learning C++ and SQL.
 - 🔭 Recent Projects Completed: I have completed multiple projects as part of my programming module. These being:
