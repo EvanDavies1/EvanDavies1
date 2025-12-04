@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm EvanDavies1.
 
-- 💬 About me: I am a Computer Science Student who loves problem solving.
-- 🌱 What I am doing: I am currently in my first year of a Computer Science course. I am currently doing multiple modules including programming, Information and Security, and Professionalism and employability.
-- ⚡ Skillset: I am currently learning C++ and SQL.
-- 🔭 Recent Projects Completed: I have completed multiple projects as part of my programming module. These being:\
+- 💬 **About me:** I am a Computer Science Student who loves problem solving.
+- 🌱 **What I am doing:** I am currently in my first year of a Computer Science course. I am currently doing multiple modules including programming, Information and Security, and Professionalism and employability.
+- ⚡ **Skillset:** I am currently learning C++ and SQL.
+- 🔭 **Recent Projects Completed:** I have completed multiple projects as part of my programming module. These being:\
   **Monthly Income** - I wrote a program that combines basic pay, medical allowance and bonus pay, to show the total monthly income, with medical allowance and bonus pay being percentages.\
   **Height in Meters** - I wrote a program that requires the user to input their height in feet and inches, where it would then be converted in to meters.\
   **Annual High Temperatures** - I wrote a program where the average temperatures of three US States were increased by 15%.\
@@ -14,7 +14,7 @@
   **Area of Triangle** - I wrote a program where the user would have to input the length of all three sides of a triangle. The program would then use that data to calculate the area of the triangle.\
   **Rainfall** - I wrote a program that reads in from a file contaning the monthly rainfall of four diffrent months, where the program would then calculate the total rainfall over that four-month period.\
   **Distance Travelled** - I wrote a program that asks the user for the speed of a vehicle in mph, and for how many hours the vehicle was travelling. The program would then calculate the distance travelled and display the distance travelled for each hour.\
-- 😄 Hobbies: I enjoy playing video games and going out with friends. I also play the guitar and sometimes volunteer at a local charity shop when I have time.
+- 😄 **Hobbies:** I enjoy playing video games and going out with friends. I also play the guitar and sometimes volunteer at a local charity shop when I have time.
 
 
 
