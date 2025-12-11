@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm EvanDavies1.
 
-- 💬 **About me:** I am a Computer Science Student who loves problem solving.
+- 💬 **About me:** I am a mature, positive and hardworking individual, who always strives to achieve the highest standard possible at any given task. I love problem solving and can work very well under pressure.
 - 🌱 **What I am doing:** I am currently in my first year of a Computer Science course. I am currently doing multiple modules including programming, Information and Security, and Professionalism and employability.
-- ⚡ **Skillset:** I am currently learning C++ and SQL.
+- ⚡ **Skillset:** I am currently learning C++ and SQL. I also have excellent numercy skills and effective communication skills. I have strong interpersonal skills with a friendly and welcoming demeanour. I am very much a team player but can also work on my own initiative when required.
 - 🔭 **Recent Projects Completed:** I have completed multiple projects as part of my programming module. These being:\
   **Monthly Income** - I wrote a program that combines basic pay, medical allowance and bonus pay, to show the total monthly income, with medical allowance and bonus pay being percentages.\
   **Height in Meters** - I wrote a program that requires the user to input their height in feet and inches, where it would then be converted in to meters.\
